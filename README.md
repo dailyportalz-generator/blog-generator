@@ -1,4 +1,4 @@
-# dpz-handson-blogupdate
+# blog-generator
 
 ## Project setup
 ```
